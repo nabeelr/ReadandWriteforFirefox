@@ -1,0 +1,386 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /6Tbvh3kNPMORuDzDaGZe46Xs+8=
+SHA256-Digest: FWexZ/M00r8Uen1lX3DprPM+QmhKADqCNrRAAP2gB44=
+
+Name: data/thirdparty/jquery-3.3.1.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DcMttKqcXwPzs4xH2IPb1P7ROq4=
+SHA256-Digest: FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=
+
+Name: data/src/g-interface.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rudrSaa5kIcWUL6rRcqKSpNFEFw=
+SHA256-Digest: 5ns1tRuWrVIjsaco7GkL1ozpuovZmRnoEyaZ7ZfVkwQ=
+
+Name: data/src/texthelpMain.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ziBr2e0PqIs5Dp1kvW915Zo60oY=
+SHA256-Digest: /eIgAeBpolLuLJXx1PGfnp4oOc/Kqxu0sT1EokjHG3Q=
+
+Name: data/src/textHelp_GDocsParser.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: epyEi4Q0fHZBnnxDTyrtJx1/kDQ=
+SHA256-Digest: qtVSKl4dXc/ungAIQuSBkeWldoTAikMyWFk2m1mSJv0=
+
+Name: data/src/loadingmanager.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: K6d1hyU4T9qDZGzwgNvbPJWmCIg=
+SHA256-Digest: kTKY9kyJBiMuYzVfG30EBMr5JN1BfMsh+/HDRxwSJ5w=
+
+Name: data/src/commands.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rT3XOTKInMdBi/GbFttlOY+gyjA=
+SHA256-Digest: fTxXMevp+dVDb/kgqd57lPhNArkEndCrI2mz0XLg+Jg=
+
+Name: data/src/socket.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NgaE7ka28dbqXXlykPH52C6mzPw=
+SHA256-Digest: UNfr0tqeT0pFYyjqVqdWuOGHUiIxuLz+bRgIfScpIBY=
+
+Name: data/src/install.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JiQmMWE7buPDVMfnWC0U9GA+WRE=
+SHA256-Digest: OzMjK/GH+LnnwjgrSsRZzkHELBNSdQR5IjMwIKEhZA8=
+
+Name: data/src/inject.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: P8bxAoBW0qMFBIdamoSGzQIiIL8=
+SHA256-Digest: JcJOE8lDkCgUJUoF5Ce3VOFuw6+gNVeCW1gEJYMQC34=
+
+Name: data/src/textHelp_WebReaderAPI.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RQIzRwNPmARgn89AeAGSWUPH014=
+SHA256-Digest: 1/GOd8nL+67s6N8jATXmr1axyuWNK19IdBB0V6FELSA=
+
+Name: data/src/commsMngr.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nzdh/baLZ8fIrEU70bnKMPEbmbE=
+SHA256-Digest: hGtJCBXyMoIjkQ5cN2u7+1ckows+VpWixFFn/ZUwBi8=
+
+Name: data/src/textHelp_WebReader.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rqy/Uf1R3dy09e9/4yyc5icqry8=
+SHA256-Digest: f4Z1/ZBMKVNVnFIy+M/ujYTIzhL15yTeuuMJn+MMCjw=
+
+Name: data/src/styles.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: xN2/7QiAr6lEx2nEvTVDQr4vGQc=
+SHA256-Digest: bAG6CW1NyL6XwlAka/qeLEddFGnCmZOV8HLtYSqG2II=
+
+Name: data/src/textHelp_FixedToolbar.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Sbv8PiHQb5t+BCjtFn8WiEFUYh4=
+SHA256-Digest: lFsrKhRQjXzq1MdvBKA+CksP9cCNcWB0kBwiH4yYskg=
+
+Name: data/src/textHelp_Configuration.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ia56cRTQQ6vI9TaZi8Y1u4+yxiw=
+SHA256-Digest: PzNLIzeu/6GD3V5k7MLdqe3y1n8si2/G/sAY0UVcoWU=
+
+Name: data/src/assets/thNonModalDialog.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /qJ8zr58uWTplwlZxG6iPCLR84I=
+SHA256-Digest: bxGFI2RufmroAJhDeAxrAhkqwESBjFv8WeScxfSZNms=
+
+Name: data/src/assets/dialog.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0dKhD+GGgHCclcFoCOsOtI1ZEFg=
+SHA256-Digest: 1mOJdCT5kwWv+blJTvct8aQe6A7QZglSKN1cCT5URN4=
+
+Name: data/src/assets/icon-64.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 05e/TZLLknn9xVn8I+BSTMZ9v94=
+SHA256-Digest: hM8kvH7vLwhp0zFT5ASXbpzocu7s0nG1AUgOPvMS6p8=
+
+Name: data/src/assets/thSettingsDialog.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zD2VQmq3NqrKJVvPVtEc/7BNXIs=
+SHA256-Digest: fgcJaycK/EVAwOWl4UoAXt0WYgze47Tg2wm1/HZWvVY=
+
+Name: data/src/assets/chdialog.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: m9cr17vm8F48q5UCwq4H1mAQUWA=
+SHA256-Digest: FKbxFLjiPuyEfISBl1yRtzr4pc5EC2ciJOeGaXnR1Co=
+
+Name: data/src/assets/128.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: L6dBXutxAsO7O/NU6JkbZsBCeGc=
+SHA256-Digest: tQe926ab6vWddYdwgyJrnlNV5veOWQSI+KGDjD+ZavM=
+
+Name: data/src/assets/thFixedToolbar.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OZspG37hbxEbtrRz/OiiCeRcPMo=
+SHA256-Digest: cP547J7GeR65lALNcdes+/7sEbej2ZfkfowOtyTrWcQ=
+
+Name: data/src/assets/48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: q6Ke+qhBNhlSZoG9RNrWEq6ZTXQ=
+SHA256-Digest: Hue/Y+yoDL8xpprAR/slTToTBJdyiGWMefSoE8jJIFo=
+
+Name: data/src/assets/chdialog.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cMwS+RVal+JVMlxFKHiryKZwAdI=
+SHA256-Digest: G3Ce4AkogZKHsQjKNS9Azpf1kgTBIWlj0CzuHsLW3/M=
+
+Name: data/src/assets/dialog.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eYzNwuQYRa7BXEKrLRhZcN81T1Y=
+SHA256-Digest: qN4KtRWtK6CfgBdYKaZnkekM6RLSPHwS8ou2I3pKFPQ=
+
+Name: data/src/assets/icon-32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wvrRfSO3Ics0GZ58EAGH4GlyuTg=
+SHA256-Digest: hlrzY+UQHZRZTRBMGKD05N4eHNIoXgTl+Sp3TMi43rQ=
+
+Name: data/src/HTMLParser/toMathML.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: slyOOBhyR16HG0AiNetyFbfNVXU=
+SHA256-Digest: e1I3S/SmQ785e02/DYzVoTqYgTVHkKl8S35r8My7kEo=
+
+Name: data/src/HTMLParser/HTMLParser.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NH6hAOqrB99/kKeq86nz86z3hLM=
+SHA256-Digest: Qhhf4cpMbSzvgKAfW8nXXCoL08rpatG78p6FENntX4c=
+
+Name: data/src/HTMLParser/sre_browser.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: vbK098+479EKHC1CoaWswfoIVuk=
+SHA256-Digest: Vd61GyIsSia99SAbdr7Lp3YPxJnta3xj4SCZwyyyX9k=
+
+Name: data/src/HTMLParser/HTMLParser.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Cfr0wqHAsI9Q6N7i/6BKIHbw0rA=
+SHA256-Digest: 03X5TS2QGzQ+8bShwwsA3K4GwvNU2gMPxNBUkIOZ+dI=
+
+Name: data/src/HTMLParser/mathmaps/units/length.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: E9BGpA3YgC6VXkzJWw8EgWHPkK4=
+SHA256-Digest: LwUngAobXirQPEzQ7Xg0kpcHwURFM/U3suH3RyEa+UA=
+
+Name: data/src/HTMLParser/mathmaps/units/weight.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: i/Z4u0XNmvdC5Rd0ZZfOrUsYMow=
+SHA256-Digest: OSVZf73kV+yaZEnmn5C1Cw+COrP46yY3SBMtfBEyy+w=
+
+Name: data/src/HTMLParser/mathmaps/units/energy.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VqkecqTFVYy4QfGkcsa+1x9mm0M=
+SHA256-Digest: q/eeGznl0JrTidxVTul6nJNjEX4g3PHQaN1KgLl02NI=
+
+Name: data/src/HTMLParser/mathmaps/units/speed.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jYVmfxHQjCXM0zQZNgJJ7BPiN0E=
+SHA256-Digest: BxIu6V27tk1N+DBHTGkNtFVtS8lcn2E53eNZvi27ajQ=
+
+Name: data/src/HTMLParser/mathmaps/units/time.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zu7RHUQit1bjbjnywA7zLQQ4+P8=
+SHA256-Digest: qzHComH1kgxakTYMVgWLMUqVF1Ps+3bYmi22gr15GiA=
+
+Name: data/src/HTMLParser/mathmaps/units/volume.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cJJUoCa7Z+KafJ0W6PqUhleZm/0=
+SHA256-Digest: Fs+qmcHk8luiHOrIazepr/AKERL7/eJZLB2K6BARfYY=
+
+Name: data/src/HTMLParser/mathmaps/units/other.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dAT4cc8bggcm1MHAnGLywRtZGsg=
+SHA256-Digest: MP6MgmucUKow8EhAT1cmzrbJKbLJZMndg69/QqDy+/0=
+
+Name: data/src/HTMLParser/mathmaps/units/vssver.scc
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zXUhUd5ElTzw3bAiTKYQagyHqZ4=
+SHA256-Digest: aefDSYKlRyOALpO3fY4TLJgesnrw++t2UglXFAlwso0=
+
+Name: data/src/HTMLParser/mathmaps/units/temperature.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: atAdj3hE4qA/v9dpLdHY7GrE7+Y=
+SHA256-Digest: aE3dBM9oUPSnzA3v+IKxcIbRAkF6+75r+FPoSQ3aszo=
+
+Name: data/src/HTMLParser/mathmaps/units/memory.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YgtLcbuxbwvG5Vdi0WZvuaYKuVU=
+SHA256-Digest: Ez/M4W0D14XSUNpXZi6cKNbu48CwMHYOixTHd4PQyLA=
+
+Name: data/src/HTMLParser/mathmaps/symbols/other_stars.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5iZlKbINV6L/7w1mgoPvMTvVzy8=
+SHA256-Digest: DrS3/cwb9aUol8ZJL4As9uqD7QkU+c58rb1maRh+EQ0=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_delimiters.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: D6a4NZfFJ5zZiUH9npSppeTRStw=
+SHA256-Digest: VrFayj7YUs/B0ubNJMhxh16I464bfPWK9PCIwFX80ck=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-lower-single-accent.js
+ on
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: LGkeQ4XdwjrziehC8bn53oWMDlU=
+SHA256-Digest: 1YsSIkY7cRFDWCo68PdNrp1Aq3FwaREWeerZSKtVZ3M=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-lower-normal.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AmIXOo8fYLh3+pzyihezp6jfbCo=
+SHA256-Digest: 5oRkQCJwuinMn6N9f9OyZaQVshJo/oq3bhjbFixPa54=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_symbols.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zn+/eIC362dvTObq/2VmAZmx0sg=
+SHA256-Digest: JI560CQaDrsEXZ93MulpWmRiSWPrVgc+b9ZEuyv1lnc=
+
+Name: data/src/HTMLParser/mathmaps/symbols/greek-scripts.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: iB/dRPGTE8FK6fMpDU+0xSD17rM=
+SHA256-Digest: LZE4+auHxNXGC5gYPInxEK9mFpumpkqQpxsy3dMhZxQ=
+
+Name: data/src/HTMLParser/mathmaps/symbols/greek-mathfonts.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ub8kk3CghBISa5YHj+5NwtQd7I0=
+SHA256-Digest: 5jaNVNmgbWvRABnMGpjT0D/9m0qrzs/Su25ddhOjOLE=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-lower-phonetic.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cf2Dq/ua6sOCixY/nkifuB8Tavs=
+SHA256-Digest: GHDxnlVigjw2ckwVqIk7k2BVozSPD/VwP3BID8aX/YQ=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-upper-normal.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1cTpwgOjPAQoY+pIQaOXlCSUV5g=
+SHA256-Digest: QiHknRC1U97DTLPUID8cS7Fx2ZM6F0YIHCWlFRqZ/QE=
+
+Name: data/src/HTMLParser/mathmaps/symbols/greek-small.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZRCMD/yV5h7qgAFP3Fc+Ui/9Z7Y=
+SHA256-Digest: 6+Gvts6iqqLujXEYOs4tq3gc1eIqOgVpw8qPlZm3VP4=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_non_characters.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: R0hJ8komwxf9r4M2NbmWPajOYO4=
+SHA256-Digest: TeT86Ryiqd9VzHuqlStUYEdTd6TPO0qdhpqGbsS9PQA=
+
+Name: data/src/HTMLParser/mathmaps/symbols/greek-capital.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rdVAskM2FoO1XNXA9KsuFc0y64A=
+SHA256-Digest: 4TEj8n8xIElkLpMTiS6A1Z9i2SLO3/BBV3c1eHBdG9c=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_angles.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lYvuu4C8d5HI9FLmSi7+w5MJApY=
+SHA256-Digest: UR65IpshpUb32ATiXWr7GVUq7vKNFz1fPJfCNrnmvSE=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-mathfonts.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zDbNDZl0VLB72rn2ucnz37+kyW8=
+SHA256-Digest: obzQdCh660UPHoNmIIXcJUGFuatMh/0f8bvRr5VxGc0=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_geometry.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Uv9Qf8YVHYxEV4bSVwZrDeGJk9I=
+SHA256-Digest: MDZGouM+vfDy/T6vLeskT4AA2fTue2gMgCtu8zMcInA=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-upper-single-accent.js
+ on
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RBmzRnmSA1EkiBcgjpmpXq5x234=
+SHA256-Digest: DVmtBlv6Nee8203eQzgqsg0mterJOzlQXdHMSjWSH0Y=
+
+Name: data/src/HTMLParser/mathmaps/symbols/vssver.scc
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: F9UGRCVUBAOdy1U9+a+rJ6LMTXo=
+SHA256-Digest: 0pIdt22TjbtHq0NB9pA1v0AbA6jK0edh4GOb/h5RCAs=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_digits.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: El1jvXiv3GkYCr4sYj70RUS3+x4=
+SHA256-Digest: SoukzDttA9zNyjjw67sldrWzjeyQBldMzOmuYE/6a/c=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_arrows.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pEhQ8nLiiG773EBZv0r0TRa08t0=
+SHA256-Digest: coCSQyRQG6wcKf6ffNb6JoXyg9KtCQH0M4H65xhaLMA=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_characters.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: s9k6kc805iNHCmpvvV4xkM7eS8k=
+SHA256-Digest: sfk/72F1cRjEhgid1ze0zMQRmxjP1zHWlHNPq2WbuO0=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_harpoons.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wacV00UPJq39a6vOvuDBaQazywg=
+SHA256-Digest: jZaqEBnjKmhv6cvjXcTA5r4HUv7CUFlFseOHw6Iz99s=
+
+Name: data/src/HTMLParser/mathmaps/symbols/hebrew_letters.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: b3UUUrCqhd/A4UaGrlq+7ddPgxY=
+SHA256-Digest: BhTNpq830HZuEleoH67B6i0ng75/Gyb0tWUQrODU6GM=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-upper-double-accent.js
+ on
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wK7QwH2VkawZpulC6FpE4MAq/pQ=
+SHA256-Digest: HV2KHZsjR3hzWBjj5ym+Q5VzZljkpExGyP4ieR8Inl8=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-rest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2cl5uRfixnv63eyI/2qA0VLXsl8=
+SHA256-Digest: 7N0rCL2Pak7qCj4bZezLaQhNtII2dX9ZAoV2wPA7Pl8=
+
+Name: data/src/HTMLParser/mathmaps/symbols/math_whitespace.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Takre/Gkt7hnFoZG/WJefESxBDA=
+SHA256-Digest: 1kriHmmj/1uhKevHxHOamqAJZ3y7wn9df15Uq87046c=
+
+Name: data/src/HTMLParser/mathmaps/symbols/greek-symbols.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eZhyCKPLl9d7MotfHuPsJ2fyh5g=
+SHA256-Digest: bFSeCrMBWTojVyU9LKtT8d0v2mAa1KRCdw0JkTlgYoI=
+
+Name: data/src/HTMLParser/mathmaps/symbols/latin-lower-double-accent.js
+ on
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: fn4Rsbg5qg2rzV0CaopVR7XUFRw=
+SHA256-Digest: dL9fVOCqlo2F+bh6r0yAvxKxkVHkLzibz2sgXzROxMs=
+
+Name: data/src/HTMLParser/mathmaps/functions/trigonometry.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2RKm88Ixb3mDmBpxLyNUD1A6Ses=
+SHA256-Digest: ZCWfnRsBjLGevVoxYrKeQdaPEvJZm2EN0WkR3lDDWlk=
+
+Name: data/src/HTMLParser/mathmaps/functions/elementary.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AVhzpzLDXU6mC5/qxn9Nq4r6fhU=
+SHA256-Digest: M4FXx9dbRv3J9q+4Yruzgoz2Man6ijsgPnVVu2S5m9I=
+
+Name: data/src/HTMLParser/mathmaps/functions/algebra.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EGZXqo84fe3rl19fbcSJYXja8XE=
+SHA256-Digest: y2rcU8LR3aymZIHKbcPpaBvvLCDV46d4DwtaGDQztsk=
+
+Name: data/src/HTMLParser/mathmaps/functions/vssver.scc
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bhIN8Q876I87JvNn57zqvpnrAe4=
+SHA256-Digest: dunS+zu3792HTRvzNAcF2Y0FO55EqMHW074qOnAs1rY=
+
+Name: data/src/HTMLParser/mathmaps/functions/hyperbolic.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kL234oTu1uZ0sFBIQbB+NYx9VYU=
+SHA256-Digest: lMelDi7LzxgKLVH5jIDC6v/4aYgyqlkYLKgEye/2sJg=
+
+Name: data/src/comms/commsBG.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oaSJ7Jm9iMsn2ebM//s3Oi2UK3Q=
+SHA256-Digest: RGbJEhORL65PD++X7/S6XBDiT6L7xUCxmn9cmFCzGkk=
+
+Name: data/src/comms/commsContent.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 06rTXM9NHtTCOifI6Yipqrl9qo8=
+SHA256-Digest: yY2kv6wGdUIDlw/JlCngsxbJYn3XcIRSDBodOKxv+2o=
+
+Name: data/src/comms/commsEmbedded.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +0vXOxtHmuDcXBkx7rduNtfQRNc=
+SHA256-Digest: kT1AAGYxqM0QyjIFP4/PvEOFKwfCNY/U6dveGPOh5sU=
+

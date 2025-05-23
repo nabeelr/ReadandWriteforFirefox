@@ -1,0 +1,45 @@
+{
+  "name": "Read&Write support for Firefox",
+  "version": "1.0.3",
+  "description": "Adds Read&Write accessibility features and support to Firefox.",
+  "permissions": [
+    "clipboardRead",
+    "clipboardWrite",
+    "management",
+    "https://*/*",
+    "http://*/*"
+  ],
+  "icons": {
+    "48": "data/src/assets/48.png",
+    "128": "data/src/assets/128.png"
+  },
+  "background": {
+    "scripts": [
+      "data/src/socket.js",
+      "data/src/comms/commsBG.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/*",
+        "http://*/*"
+      ],
+      "js": [
+        "data/src/inject.js",
+        "data/src/comms/commsContent.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    "data/*"
+  ],
+  "applications": {
+    "gecko": {
+      "id": "{5c843c31-dea4-4e40-bac3-86a252c82c83}"
+    }
+  },
+  "manifest_version": 2
+}
